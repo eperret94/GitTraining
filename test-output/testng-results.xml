@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-09T11:27:56 CET" name="Suite" finished-at="2020-12-09T11:27:56 CET" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2020-12-09T11:27:56 CET" name="Test" finished-at="2020-12-09T11:27:56 CET" duration-ms="98">
+      <class name="MavenTutorial.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:MavenTutorial.AppTest@55740540]" started-at="2020-12-09T11:27:56 CET" name="shouldAnswerWithTrue" finished-at="2020-12-09T11:27:56 CET" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- MavenTutorial.AppTest -->
+      <class name="MavenTutorial.AppTest_2">
+        <test-method signature="printHello()[pri:0, instance:MavenTutorial.AppTest_2@60015ef5]" started-at="2020-12-09T11:27:56 CET" name="printHello" finished-at="2020-12-09T11:27:56 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHello -->
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:MavenTutorial.AppTest_2@60015ef5]" started-at="2020-12-09T11:27:56 CET" name="shouldAnswerWithTrue" finished-at="2020-12-09T11:27:56 CET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- MavenTutorial.AppTest_2 -->
+      <class name="MavenTutorial.NewTest">
+        <test-method signature="printHello()[pri:0, instance:MavenTutorial.NewTest@2f54a33d]" started-at="2020-12-09T11:27:56 CET" name="printHello" finished-at="2020-12-09T11:27:56 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printHello -->
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:MavenTutorial.NewTest@2f54a33d]" started-at="2020-12-09T11:27:56 CET" name="shouldAnswerWithTrue" finished-at="2020-12-09T11:27:56 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- MavenTutorial.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

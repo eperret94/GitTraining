@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="MavenTutorial.AppTest_2" time="1.594" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\eperret\eclipse-workspace\Mavenjava\target\test-classes;C:\Users\eperret\eclipse-workspace\Mavenjava\target\classes;C:\Users\eperret\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\eperret\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\eperret\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\eperret\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\eperret\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\eperret\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\eperret\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\eperret\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\eperret\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin"/>
+    <property name="sun.java.command" value="C:\Users\eperret\AppData\Local\Temp\surefire10528274728765090483\surefirebooter10026950047812446886.jar C:\Users\eperret\AppData\Local\Temp\surefire10528274728765090483 2020-12-09T11-53-50_427-jvmRun1 surefire6132922851916359102tmp surefire_010153133657378230256tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="AppTest_2"/>
+    <property name="surefire.test.class.path" value="C:\Users\eperret\eclipse-workspace\Mavenjava\target\test-classes;C:\Users\eperret\eclipse-workspace\Mavenjava\target\classes;C:\Users\eperret\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\eperret\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\eperret\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\eperret\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\eperret\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\eperret\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\eperret\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\eperret\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\eperret\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\eperret"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\eperret\eclipse-workspace\Mavenjava"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\eperret\AppData\Local\Temp\surefire10528274728765090483\surefirebooter10026950047812446886.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.9+7-LTS"/>
+    <property name="user.name" value="eperret"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\eperret\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\eperret\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="user.dir" value="C:\Users\eperret\eclipse-workspace\Mavenjava"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\eperret\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\eperret\bin;C:\Program Files\Java\jdk-11.0.9\bin;C:\apache-maven-3.6.3-bin\bin;C:\Python36;C:\Python36\Scripts;C:\Python27;C:\Python27\Scripts;C:\PROGRAM FILES\DELL\DW WLAN CARD;C:\PROGRAM FILES (X86)\INTEL\ICLS CLIENT;C:\PROGRAM FILES\INTEL\ICLS CLIENT;C:\Windows\SYSTEM32;C:\Windows;C:\Windows\SYSTEM32\WBEM;C:\Windows\SYSTEM32\WINDOWSPOWERSHELL\V1.0;C:\PROGRAM FILES (X86)\INTEL\OPENCL SDK\2.0\BIN\X86;C:\PROGRAM FILES (X86)\INTEL\OPENCL SDK\2.0\BIN\X64;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\DAL;C:\PROGRAM FILES (X86)\INTEL\INTEL(R) MANAGEMENT ENGINE COMPONENTS\IPT;C:\Program Files\WIDCOMM\Bluetooth Software;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;C:\perl\c\bin;C:\perl\perl\site\bin;C:\perl\perl\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Google Apps Sync;C:\Program Files (x86)\Google\Google Apps Migration;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.9+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="printHello" classname="MavenTutorial.AppTest_2" time="0.016"/>
+  <testcase name="shouldAnswerWithTrue" classname="MavenTutorial.AppTest_2" time="0.001"/>
+</testsuite>
