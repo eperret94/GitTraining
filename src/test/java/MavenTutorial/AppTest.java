@@ -21,5 +21,6 @@ public class AppTest
     public void printHello()
     {
         System.out.println("Hello");
+        System.out.println("my friend");
     }
 }
