@@ -17,10 +17,10 @@ public class NewTest2
         assertTrue( true );
     }
 
-    //@Test
-    public void printHello()
+    @Test
+    public void printUpdates()
     {
-        System.out.println("Hello");
-        System.out.println("Update from X user");
+          System.out.println("Update1 from X user");
+          System.out.println("Update2 from Y user");
     }
 }
