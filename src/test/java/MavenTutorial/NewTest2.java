@@ -23,4 +23,11 @@ public class NewTest2
           System.out.println("Update1 from X user");
           System.out.println("Update2 from Y user");
     }
+    
+    @Test
+    public void printUpdates2()
+    {
+          System.out.println("Update1 from X user");
+          System.out.println("Update2 from X user");
+    }
 }

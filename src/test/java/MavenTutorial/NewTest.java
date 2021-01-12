@@ -24,4 +24,10 @@ public class NewTest
         System.out.println("GitHub");
         System.out.println("Update from X user");
     }
+    
+    @Test
+    public void NewTestCase()
+    {
+        System.out.println("NewTestCase from X user");
+    }
 }
