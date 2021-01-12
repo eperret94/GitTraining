@@ -23,4 +23,10 @@ public class AppTest
         System.out.println("Hello");
         System.out.println("my friend");
     }
+    
+    @Test
+    public void Finaldevupdate()
+    {
+         System.out.println("Finaldevupdate from X user");
+    }
 }
